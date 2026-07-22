@@ -1,0 +1,9 @@
+# Password Generator Requirements
+
+# This project uses only Python's built-in libraries.
+
+# No external packages need to be installed.
+
+# Python Version
+
+Python >= 3.8
